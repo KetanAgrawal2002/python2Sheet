@@ -31,7 +31,7 @@ Make a CSV Importer for Google Sheets that lets users drag and drop CSV files on
 
 
 ### Trailer
-[![Watch the video](https://img.youtube.com/vi/9Q1QZx7X3Zc/maxresdefault.jpg)](https://youtu.be/9Q1QZx7X3Zc)
+[![Watch the video](https://drive.google.com/file/d/1fTQsrm1X0Qt0bsVCar9zDJ-vuNIrcU2s/view?usp=sharing)
 
 
 ### Approach
