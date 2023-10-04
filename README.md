@@ -30,10 +30,6 @@ A typical week of an analyst in an e-commerce company 🛒 involves receiving mu
 Make a CSV Importer for Google Sheets that lets users drag and drop CSV files onto the Google Sheet. The moment they drop the CSV file, allow them to select which columns to import 🗂️.
 
 
-### Trailer
-[![Watch the video](https://drive.google.com/file/d/1fTQsrm1X0Qt0bsVCar9zDJ-vuNIrcU2s/view?usp=sharing)
-
-
 ### Approach
 In this project, I begin by developing a Streamlit web application to serve as the user interface, leveraging Streamlit's simplicity for creating interactive web applications using Python. To ensure secure access to Google Sheets, user authentication is implemented using Google OAuth2. Users log in with their Google accounts, granting authorization for the application to interact with their Google Sheets.
 
@@ -91,14 +87,6 @@ streamlit run index.py
 - **Add data to existing files** - Users can add data to existing Google Sheets by providing a link to the sheet.
 - **Custom Filters** - Users can apply custom filters to the data before adding it to Google Sheets.
 - **Optimized for large files** - The application is optimized to handle large CSV files with thousands of rows and columns without causing performance issues or prolonged loading times.
-
-
-### Checklist
-- [✔️] My code's working just fine! 🥳
-- [✔️] I have recorded a video showing it working and embedded it in the README ▶️
-- [✔️] I have tested all the normal working cases 😎
-- [✔️] I have even solved some edge cases (brownie points) 💪
-- [✔️] I added my very planned-out approach to the problem at the end of this README 📜
 
 
 ### Credits
