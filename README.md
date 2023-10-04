@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_IojtdoU)
-### **StackIt Hiring Assessment**
 
 # **SheetSync**: CSV Import & Filter
 **SheetSync** is a web application that allows users to upload a CSV file, select specific columns from it, and add the selected data to a Google Sheet. Users can also provide a Google Sheet link to append their data to an existing sheet.Users can also apply filters based on their specific requirements before appending a data and append only required data.
